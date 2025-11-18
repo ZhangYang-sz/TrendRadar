@@ -21,11 +21,15 @@
 vivo小游戏
 鸿蒙游戏
 oppo小游戏
+
 RPG
 PVP
 SLG
 自走棋
 放置
+消除
+三消
+解密
 
 unity
 虚幻5
